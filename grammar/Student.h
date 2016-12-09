@@ -8,9 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
-@interface Student : NSObject
+@interface Student : NSObject {
+@public
+    int age;
+    NSString *name;
+}
 
-@property (assign, nonatomic) int age;
-@property (assign, atomic) NSString *name;
+//@property (assign, nonatomic, readwrite) int age;
+//@property (assign, atomic, readwrite) NSString *name;
 
 @end
