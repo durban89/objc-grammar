@@ -34,7 +34,7 @@ int main(int argc, const char *argv[]) {
         Student3 *bob = [[Student3 alloc] init];
         [[bob setName:@"Bob"] setAge:22];
         greeting2(bob);
-        
+
     }
     return 0;
 }

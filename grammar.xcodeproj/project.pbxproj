@@ -10,6 +10,7 @@
 		5FDD85641DF9BA0300E8EE6B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FDD85631DF9BA0300E8EE6B /* main.m */; };
 		5FDD85721DFA2FA200E8EE6B /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FDD85711DFA2FA200E8EE6B /* Student.m */; };
 		5FDD85751DFB12FB00E8EE6B /* Student2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FDD85741DFB12FB00E8EE6B /* Student2.m */; };
+		B14AA3D7D8B456A0958B0DE3 /* Student3.m in Sources */ = {isa = PBXBuildFile; fileRef = B14AA3DC58D8A469BBFBAE20 /* Student3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		5FDD85711DFA2FA200E8EE6B /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 		5FDD85731DFB12FB00E8EE6B /* Student2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student2.h; sourceTree = "<group>"; };
 		5FDD85741DFB12FB00E8EE6B /* Student2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student2.m; sourceTree = "<group>"; };
+		B14AA11DAA7A1ABB1720846D /* Student3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student3.h; sourceTree = "<group>"; };
+		B14AA3DC58D8A469BBFBAE20 /* Student3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				5FDD85711DFA2FA200E8EE6B /* Student.m */,
 				5FDD85731DFB12FB00E8EE6B /* Student2.h */,
 				5FDD85741DFB12FB00E8EE6B /* Student2.m */,
+				B14AA3DC58D8A469BBFBAE20 /* Student3.m */,
+				B14AA11DAA7A1ABB1720846D /* Student3.h */,
 			);
 			path = grammar;
 			sourceTree = "<group>";
@@ -132,6 +137,7 @@
 				5FDD85641DF9BA0300E8EE6B /* main.m in Sources */,
 				5FDD85751DFB12FB00E8EE6B /* Student2.m in Sources */,
 				5FDD85721DFA2FA200E8EE6B /* Student.m in Sources */,
+				B14AA3D7D8B456A0958B0DE3 /* Student3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
